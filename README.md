@@ -1,2 +1,0 @@
-# JB-IST4320
-for IST4320 class
